@@ -13,9 +13,20 @@ OUTPUT PRACTICAL_1.3
 
 OUTPUT PRACTICAL_1.4
 
+![image](https://user-images.githubusercontent.com/110705475/186234535-b811cc9c-ce31-46ef-bfa6-2e584f3f6ff4.png)
+
 OUTPUT PRACTICAL_1.5
+
+![image](https://user-images.githubusercontent.com/110705475/186234937-00e4c4fe-038e-4090-a66a-ae9ae663de1b.png)
+
+
 OUTPUT PRACTICAL_1.6
+
+![image](https://user-images.githubusercontent.com/110705475/186235036-70943084-a4d1-486f-88c6-90324604e3a8.png)
+
 OUTPUT PRACTICAL_1.7
+
+
 OUTPUT PRACTICAL_1.8
 OUTPUT PRACTICAL_1.9
 OUTPUT PRACTICAL_1.10
