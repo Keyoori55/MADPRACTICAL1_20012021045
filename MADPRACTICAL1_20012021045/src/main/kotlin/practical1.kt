@@ -18,5 +18,4 @@ fun main()
     println("Short Value : $h ")
     var a : Byte = 127
     println("Byte Value : $a ")
-
 }
